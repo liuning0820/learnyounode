@@ -1,0 +1,20 @@
+npm help ............ Get help with npm.
+
+/*Lesson 2: Login
+
+ Because this is just a tutorial adventure, remember, we're not
+ *actually* creating an account anywhere.  However, when you run
+ this in the Real World, it'll create a real account, with a page
+ on npmjs.com and the ability to publish packages that real live
+ humans can install and enjoy.
+
+ To see who you're logged in as, run `npm whoami`
+
+ To create your account, run `npm adduser`
+
+  npm whoami
+  npm adduser
+      Username: liuning0820
+      Password:
+      Email: (this IS public) ning.liu4@hp.com
+  */
