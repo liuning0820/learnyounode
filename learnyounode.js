@@ -16,6 +16,7 @@ rints the sum of those numbers to the console (stdout).
 //    console.log(sum);
 
 
+
 /*Lesson 3: MY FIRDT I/O
 Write a program that uses a single synchronous filesystem operation to read a fi
 le and print the number of newlines (\n) it contains to the console (stdout), si
